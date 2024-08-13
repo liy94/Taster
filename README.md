@@ -8,4 +8,4 @@ Built with React Native + Expo
 
 We use a Long Short Term Memory model that we trained ourselves for recommendations.
 
-Still underconstructions, but we are excited for it!
+Still under constructions, but we are excited for it!
